@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debanshu Das</h1>
-<h3 align="center">A passionate Passionate Computer Science Graduate Seeking Opportunities to Drive Insights and Innovate Solutions.</h3>
+<h3 align="center">A passionate  CS Graduate Seeking Opportunities to Drive Insights and Innovate Solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debanshucs&label=Profile%20views&color=0e75b6&style=flat" alt="debanshucs" /> </p>
 
