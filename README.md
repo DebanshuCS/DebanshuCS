@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debanshucs&label=Profile%20views&color=0e75b6&style=flat" alt="debanshucs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debanshucs" alt="debanshucs" /></a> </p>
-
 - 🌱 I’m currently learning **"I'm currently learning about deep learning and neural networks." This answer indicates your interest in studying advanced techniques for building and training neural networks, including topics such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), and generative adversarial networks (GANs).**
 
 - 👯 I’m looking to collaborate on **a project that involves leveraging big data technologies to process and analyze large-scale datasets.**
