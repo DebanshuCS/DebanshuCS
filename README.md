@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **a project that involves leveraging big data technologies to process and analyze large-scale datasets.**
 
-- 🤝 I’m looking for help with **deploying machine learning models in production**
+- 🤝 I’m looking for help with **deploying Artificial intelligence models in production**
 
 - 👨‍💻 All of my projects are available at [https://debanshu.me/](https://debanshu.me/)
 
