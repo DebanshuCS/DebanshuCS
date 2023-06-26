@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **talkto.debanshu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AH0yCv76_NJtx4MtIunhV6LgOWMD1QHD/view?usp=sharing](https://drive.google.com/file/d/1AH0yCv76_NJtx4MtIunhV6LgOWMD1QHD/view?usp=sharing)
+- 📄 Know about my experiences [MyResume](https://debsresume.tiiny.site/)
 
 - ⚡ Fun fact **Did you know that the term "data science" was first coined in 2001 by William S. Cleveland, a prominent statistician? He used the term to describe the interdisciplinary field that combines statistics, mathematics, computer science, and domain knowledge to extract insights and knowledge from data. Since then, data science has evolved rapidly and become an integral part of various industries, revolutionizing how we make decisions and solve complex problems using data-driven approaches.**
 
