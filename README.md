@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debanshucs&label=Profile%20views&color=0e75b6&style=flat" alt="debanshucs" /> </p>
 
-- 🌱 **"I'm currently learning about deep learning and neural networks." Interested in studying advanced techniques for building and training neural networks, including topics such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), and generative adversarial networks (GANs).**
+- 🌱 **"I'm currently learning about deep learning and attack graphs." Interested in studying advanced techniques to build solutions for cyber risk management in critical infrastructures.**
 
 - 👯 I’m looking to collaborate on **a project that involves leveraging big data technologies to process and analyze large-scale datasets.**
 
 - 🤝 I’m looking for help with **deploying Artificial intelligence models in production**
 
-- 👨‍💻 Check my Portfolio at [Debanshu.me](https://debanshu.me/)
+- 👨‍💻 Check my Portfolio at [Debanshu.me](https://debanshudas.works/)
 
 - 💬 Ask me about **Machine learning algorithms and their applications.**
 
 - 📫 How to reach me **talkto.debanshu@gmail.com**
 
-- 📄 Know about my experiences [MyResume](https://teal-samaria-7.tiiny.site/)
+- 📄 Know about my experiences [MyResume](https://cyan-opal-87.tiiny.site)
 
 - ⚡ Fun fact **Did you know that the term "data science" was first coined in 2001 by William S. Cleveland, a prominent statistician? He used the term to describe the interdisciplinary field that combines statistics, mathematics, computer science, and domain knowledge to extract insights and knowledge from data. Since then, data science has evolved rapidly and become an integral part of various industries, revolutionizing how we make decisions and solve complex problems using data-driven approaches.**
 
