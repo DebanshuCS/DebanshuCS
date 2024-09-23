@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debanshucs&label=Profile%20views&color=0e75b6&style=flat" alt="debanshucs" /> </p>
 
-- 🌱 **"I'm currently learning about deep learning and attack graphs." Interested in studying advanced techniques to build solutions for cyber risk management in critical infrastructures.
+- 🌱 **"I'm currently learning about deep learning and attack graphs." Interested in studying advanced techniques to build solutions for cyber risk management in critical infrastructures.**
 
 - 👯 I’m looking to collaborate on **a project that involves leveraging big data technologies to process and analyze large-scale datasets.**
 
 - 🤝 I’m looking for help with **deploying Artificial intelligence models in production**
 
-- 👨‍💻 Check my Portfolio at [Debanshu.me](https://debanshudas.works)
+- 👨‍💻 Check my Portfolio at [debanshudas.works](https://debanshudas.works)
 
 - 💬 Ask me about **Machine learning algorithms and their applications.**
 
