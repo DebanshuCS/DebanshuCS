@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **deploying Artificial intelligence models in production**
 
-- 👨‍💻 Check my Portfolio at [Debanshu.me](https://debanshudas.works/)
+- 👨‍💻 Check my Portfolio at [Debanshu.me](https://debanshudas.works)
 
 - 💬 Ask me about **Machine learning algorithms and their applications.**
 
